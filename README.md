@@ -14,7 +14,6 @@
 - 💬 Ask me about **Web Developer**
 
 - 📫 How to reach me **sangthanh052@gmail.com**
-https://github.com/sangthanh052/sangthanh052/blob/master/README.md
 - ⚡ Fun fact **I am Sang**
 
 <h3 align="left">Connect with me:</h3>
