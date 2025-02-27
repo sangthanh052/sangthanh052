@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanhlinh952001&label=Profile%20views&color=0e75b6&style=flat" alt="khanhlinh952001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangthanh052&label=Profile%20views&color=0e75b6&style=flat" alt="sangthanh052" /> </p>
 
 - 🌱 I’m currently learning **React,AWS**
 
