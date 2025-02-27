@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React,AWS**
 
-- 👨‍💻 All of my projects are available at [sangthanh052-profile.vercel.app](https://github.com/sangthanh052)
+- 👨‍💻 All of my projects are available at [sangthanh052-profile](https://github.com/sangthanh052)
 
 - 💬 Ask me about **Web Developer**
 
