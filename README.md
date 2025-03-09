@@ -1,5 +1,4 @@
-[![sangthanh052](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57dx.gif)](https://github.com/sangthanh052)
-![image](https://github.com/user-attachments/assets/ea5b7602-0b39-48f3-ab16-9f1e43fc0113)
+[![sangthanh052](https://github.com/user-attachments/assets/ea5b7602-0b39-48f3-ab16-9f1e43fc0113)](https://github.com/sangthanh052)
 
 <h1 align="center">Hi 👋, I'm Nguyen Thanh Sang</h1>
 <h3 align="center">A passionate Web Developer from VietNam</h3>
