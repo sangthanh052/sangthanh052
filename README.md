@@ -1,17 +1,17 @@
 [![sangthanh052](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57dx.gif)](https://github.com/sangthanh052)
-<h1 align="center">Hi 👋, I'm Sang Nguyen</h1>
+<h1 align="center">Hi 👋, I'm Sang Nguyen :male_sign:</h1>
 <h3 align="center">A passionate Web Developer from VietNam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangthanh052&label=Profile%20views&color=0e75b6&style=flat" alt="sangthanh052" /> </p>
 
-- 🌱 I’m currently learning **Reactjs, Nodejs, AWS**
+- :gem: I’m currently learning **Reactjs, Nodejs, AWS**
 
-- 👨‍💻 All of my projects are available at [sangthanh052-profile](https://github.com/sangthanh052?tab=repositories)
+- :open_file_folder: All of my projects are available at [sangthanh052-profile](https://github.com/sangthanh052?tab=repositories)
 - 💬 Ask me about **Web Developer**
-- 📫 How to reach me **sangthanh052@gmail.com**
-- ⚡ Fun fact **I am Sang Blue**
+- :envelope_with_arrow: How to reach me **sangthanh052@gmail.com**
+- ⚡ Fun fact **I am Sang Blue** :+1:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
