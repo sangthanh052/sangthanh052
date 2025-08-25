@@ -13,14 +13,9 @@
 - :envelope_with_arrow: How to reach me **sangthanh052@gmail.com**
 - ⚡ Fun fact **I am Sang Blue** :+1:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/sangthanh052" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sangthanh052" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<!--   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -37,7 +32,42 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> -->
+
+   <a target="_blank" rel="noopener noreferrer nofollow" href="/"><img alt="React" src="https://camo.githubusercontent.com/9ea39a145870ab0cea89d021e33cacd20d1b833764284b3579c3d0713da87262/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&amp;logo=react&amp;logoColor=white" style="max-width: 100%;"></a>
+   
+  <a target="_blank" rel="noopener noreferrer nofollow" href="/"><img 
+    alt="Zod" 
+    src="https://img.shields.io/badge/-Zod-408AFF?style=flat-square&logo=zod&logoColor=white" /></a>
+  
+   <a target="_blank" rel="noopener noreferrer nofollow" href="/"><img alt="TailwindCSS" src="https://camo.githubusercontent.com/1cf8cdaac3727552532526cb2d833511fcdff10db9a87ef69b6a55ed4cd57493/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e645f4353532d3338423241433f7374796c653d666c61742d737175617265266c6f676f3d7461696c77696e64637373266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" style="max-width: 100%;"></a>
+   
+
+  
+   <a target="_blank" rel="noopener noreferrer nofollow" href="/"><img 
+    alt="shopify" 
+    src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" 
+  /></a>
+  
+   <a target="_blank" rel="noopener noreferrer nofollow" href="/"><img 
+    alt="salesforce" 
+    src="https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" 
+  /></a>
+   
+   <a target="_blank" rel="noopener noreferrer nofollow" href="/"><img alt="TypeScript" src="https://camo.githubusercontent.com/bd23728a12155fbd3a26349b45fc8ed5342d104428f9861d1faebc247a476cb0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;"></a>
+   
+   <a target="_blank" rel="noopener noreferrer nofollow" href="/"><img alt="Heroku" src="https://camo.githubusercontent.com/e6ee455039a16c273a6275dad8e40c41481844ba059560bbd7831b7d4cd0d000/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3433303039383f7374796c653d666c61742d737175617265266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&amp;logo=heroku&amp;logoColor=white" style="max-width: 100%;"></a>
+   
+   <a target="_blank" rel="noopener noreferrer nofollow" href="/"><img alt="redux" src="https://camo.githubusercontent.com/ba8df802f40b2670b90f9aea8bf9841b97b64c484dc927372650d511b2606458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3736344142433f7374796c653d666c61742d737175617265266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&amp;logo=redux&amp;logoColor=white" style="max-width: 100%;"></a>
+   
+   <a target="_blank" rel="noopener noreferrer nofollow" href="/"><img alt="Sass" src="https://camo.githubusercontent.com/0e6ba19debf2cc3fc4b0cd637eef4176d59de7c38c8981bc93730eec159670d6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536173732d4343363639393f7374796c653d666c61742d737175617265266c6f676f3d73617373266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&amp;logo=sass&amp;logoColor=white" style="max-width: 100%;"></a>
+   
+   <a target="_blank" rel="noopener noreferrer nofollow" href="/"><img alt="Styled Components" src="https://camo.githubusercontent.com/b876ea9d46a45571425ad9991cb4d865276d59ba47c638180ce49218b43cc7c0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5374796c65645f436f6d706f6e656e74732d6462373039323f7374796c653d666c61742d737175617265266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&amp;logo=styled-components&amp;logoColor=white" style="max-width: 100%;"></a>
+   
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.mongodb.com/"><img alt="MongoDB" src="https://camo.githubusercontent.com/1b4a6d82afc536fb0334bbadc855dd29dcfa6bf555f958994655ea14262cdb5d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3133616135323f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&amp;logo=mongodb&amp;logoColor=white" style="max-width: 100%;"></a>
+   
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://nodejs.org"><img alt="Nodejs" src="https://camo.githubusercontent.com/20bd6610174fe74e992bf1b7fe5009d8b6035e1f59cecca5669d8457f991bb26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&amp;logo=Node.js&amp;logoColor=white" style="max-width: 100%;"></a>
+</p>
 
 <h3 align="left">Support:</h3>
 <p align="left">
