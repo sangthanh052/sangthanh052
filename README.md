@@ -6,12 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangthanh052&label=Profile%20views&color=0e75b6&style=flat" alt="sangthanh052" /> </p>
 
-- :gem: I’m currently learning **Docker, AWS, Microservices **
-
-- :open_file_folder: All of my projects are available at [sangdev.io.vn](https://github.com/sangthanh052?tab=repositories)
-- 💬 Ask me about **Javascript Developer**
+- :gem: I’m currently learning **Docker, AWS, Microservices**
+- :open_file_folder: All of my projects are available at [sangdev.io.vn](https://github.com/sangthanh052?tab=repositories) 
+- 💬 Ask me about **Javascript Developer** :+1:
 - :envelope_with_arrow: How to reach me **sangthanh052@gmail.com**
-- ⚡ Fun fact **I am Sang Blue** :+1:
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- 
