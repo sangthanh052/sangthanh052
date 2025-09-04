@@ -61,8 +61,10 @@
   <a align="left" href="https://buymeacoffee.com/sangthanh052"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sang" /></a>
   <a align="left" href="https://ko-fi.com/LInh"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Sang" /></a>
 </p>
-
+<!-- 
 <p align="left">
   <a align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sangthanh052&show_icons=true&locale=en&layout=compact" alt="sangthanh052" height="195" /></a>
   <a align="right"><img src="https://github-readme-stats.vercel.app/api?username=sangthanh052&show_icons=true&locale=en&theme=default" alt="sangthanh052" /></a>
 </p>
+-->
+  
